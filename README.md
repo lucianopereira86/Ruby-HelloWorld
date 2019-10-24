@@ -45,23 +45,24 @@ The result will be:
 
 ![print05](/docs/print05.JPG)
 
-There more ways to print messages. Add these lines into your file:
+There are other ways to print messages. Add these lines to the file:
 
 ```ruby
 print "Hello World!"
 p "Hello World!"
 ```
 
-Run the file again and the result will be:
+Run it again and the result will be:
 
 ![print06](/docs/print06.JPG)
 
+What happened?  
 _puts_ writes the message in one line.  
 _print_ writes the message without jumping to the next line.  
 _p_ inspects the element.
 
 ## References
 
-[Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
-[Ruby Hello World](https://bgasparotto.com/pt/ruby/hello-world/)
-[Ruby básico](https://www.caelum.com.br/apostila-ruby-on-rails/ruby-basico/)
+- [Ruby For Beginners](http://ruby-for-beginners.rubymonstas.org/index.html)
+- [Ruby Hello World](https://bgasparotto.com/pt/ruby/hello-world/)
+- [Ruby básico](https://www.caelum.com.br/apostila-ruby-on-rails/ruby-basico/)
