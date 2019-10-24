@@ -2,7 +2,7 @@
 
 # Ruby-HelloWorld
 
-First coding with Ruby in a Windows 10 environment.
+First time coding with Ruby in a Windows 10 environment.
 
 ## Instructions
 
