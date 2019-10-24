@@ -38,7 +38,7 @@ puts "Hello World!"
 Run the file:
 
 ```posh
-ruby .\hello_word.rb
+ruby .\hello_world.rb
 ```
 
 The result will be:
